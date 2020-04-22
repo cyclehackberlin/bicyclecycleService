@@ -111,3 +111,6 @@ xcuserdata
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.gitignore.io/api/vapor,xcode,swift
+
+# Mac OS
+.DS_Store
